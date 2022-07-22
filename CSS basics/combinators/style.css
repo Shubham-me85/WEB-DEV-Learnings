@@ -1,0 +1,16 @@
+h2+p{
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+h2 ~ p{
+    color: blue;
+}
+
+section > p{
+    background-color: brown;
+}
+
+section p{
+    font-style: italic;
+}

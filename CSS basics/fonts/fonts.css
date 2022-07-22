@@ -1,0 +1,16 @@
+#para1{
+    font-size: 10vh;
+}
+#para2{
+    /*font-family: monospace;*/
+    font-family: serif;
+    
+}
+#para3{
+    font-style: oblique;
+    font-weight: bolder;
+}
+#para4{
+    word-spacing: 10px;
+    letter-spacing: 4px;
+}
