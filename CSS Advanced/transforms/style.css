@@ -1,0 +1,40 @@
+div{
+    height: 50px;
+    width: 50px;
+    color: beige;
+    padding: 20px;
+    margin: 30px;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+.one{
+    transform: scale(1);
+}
+.two{
+    transform: rotateY(85deg);
+}
+.three{
+    transform: translateX(30px) translateY(40px);
+}
+
+.four{
+    transform: skewX(30deg) skewY(-30deg);
+}
+
+.five{
+    transform: rotateX(30deg) translateY(40px);
+}
+
+.six{
+    transform: skew(30deg,30deg);
+}

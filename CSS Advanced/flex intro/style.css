@@ -1,0 +1,26 @@
+.container{
+    height: 400px;
+    width: 400px;
+    margin: 40px;
+    display: flex;
+    background-color: bisque;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    justify-content: center;
+
+    align-items: baseline;
+    align-content: center;
+}
+
+.item{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border: dotted maroon 2px;
+    background-color: lightseagreen;
+    font-size: 20pt;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
